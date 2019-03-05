@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BlockchainApplication",
+            "request": "launch",
+            "mainClass": "net.sajtoskifli.chaosstack.blockchain.BlockchainApplication",
+            "projectName": "blockchain"
+        }
+    ]
+}
